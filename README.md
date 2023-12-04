@@ -2,6 +2,10 @@
 
 Welcome to the Resume Builder, a simple web application built with HTML, CSS, and Vanilla JavaScript. This tool allows users to easily input their personal information, education details, skills, and projects, generating a formatted resume that can be downloaded as a PDF.
 
+## Contributors
+- Shishir
+- Prajwal
+- Anurag
 ## Features
 
 - **User-Friendly Interface**: Intuitive and easy-to-use interface for entering your details.
