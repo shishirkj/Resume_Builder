@@ -1,19 +1,19 @@
 body {
     background-color: rgb(32, 32, 34);
-    color: #fff; /* Set text color to white */
-    font-family: 'Arial', sans-serif; /* Change font if needed */
+    color: #fff; 
+    font-family: 'Arial', sans-serif;
 }
 
 .container {
-    background-color: rgb(60, 60, 65); /* Update container background color */
+    background-color: rgb(60, 60, 65);
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     max-width: 600px;
     width: 100%;
     box-sizing: border-box;
-    color: #fff; /* Set text color to white */
-    margin: 0 auto; /* Center the container */
+    color: #fff; 
+    margin: 0 auto; 
 }
 
 #resumeForm {
@@ -32,9 +32,9 @@ input {
     margin-right: 3rem;
     border-radius: 5px;
     outline: none;
-    border: 1px solid #aaa; /* Set border color */
-    background-color: #333; /* Set input background color */
-    color: #fff; /* Set text color to white */
+    border: 1px solid #aaa;
+    background-color: #333; 
+    color: #fff; 
 }
 
 h1, h2 {
