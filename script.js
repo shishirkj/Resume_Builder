@@ -34,7 +34,7 @@ function generateResume() {
         
       `;
 
-    // Create a new window with the generated resume content
+   
     const newWindow = window.open();
     newWindow.document.write(`
       <!DOCTYPE html>
